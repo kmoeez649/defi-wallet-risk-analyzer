@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime, timezone
 
-ETHERSCAN_API_KEY = "TERI_KEY_YAHAN"
+ETHERSCAN_API_KEY = "HZ5SB193VVPRG5VUBETYR35HPE33TTYXVT"
 BASE_URL = "https://api.etherscan.io/api"
 
 def get_wallet_info(address):
