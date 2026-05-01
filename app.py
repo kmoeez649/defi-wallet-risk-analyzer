@@ -153,7 +153,7 @@ elif analyze_button and not wallet_address:
 # Footer
 st.markdown("---")
 st.markdown(
-    "Built by [Tera Naam] | "
+    "Built by Moeez Khan | "
     "FinTech & AI Automation | "
-    "[GitHub](tera-github-link)"
+    "[GitHub] https://github.com/kmoeez649"
 )
